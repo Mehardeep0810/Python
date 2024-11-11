@@ -1,0 +1,2 @@
+The project allows users to create, view, delete, read, and edit files through a command-line interface, leveraging functions for each specific task (e.g., create_file, view_all_files, delete_file, read_file, and edit_file).
+A main loop presents a menu of options (create, view, delete, read, edit, or exit), ensuring user-friendly interaction by processing user inputs to perform the corresponding file management operations.
